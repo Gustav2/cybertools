@@ -43,7 +43,7 @@ minima:
  
 markdown: kramdown
 highlighter: rouge
-  input: GFM
+
 
 
 
