@@ -39,10 +39,8 @@ minima:
     github: Gustav2
     twitter: gustavnybro
   date_format: "%b %-d, %Y"
-  skin: solarized-dark
- 
-markdown: kramdown
-highlighter: rouge
+#  skin: solarized-dark
+
 
 
 
