@@ -41,7 +41,7 @@ minima:
   date_format: "%b %-d, %Y"
   skin: solarized-dark
  
-    
+remote_theme: jekyll/minima
 
 
 plugins:
