@@ -42,9 +42,6 @@ minima:
 #  skin: solarized-dark
 
 
-
-
-
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
