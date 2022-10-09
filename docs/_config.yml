@@ -41,6 +41,10 @@ minima:
   date_format: "%b %-d, %Y"
   skin: solarized-dark
  
+markdown: kramdown
+highlighter: rouge
+    input: GFM
+
 
 
 plugins:
